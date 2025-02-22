@@ -1,4 +1,4 @@
-# 👋 Hi, I'm A. Sairam Kumar Patro
+# 👋 Hi, I'm A (Atal). Sairam Kumar Patro
 
 **Senior Executive | MCA in Ai/ML Student | Technology Enthusiast**
 
