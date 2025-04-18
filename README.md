@@ -1,12 +1,12 @@
 # 👋 Hi, I'm A (Atal). Sairam Kumar Patro
 
-**Senior Executive | MCA in Ai/ML Student | Technology Enthusiast**
+**Senior Executive | MCA in Cloud Computing | Technology Enthusiast**
 
 ---
 
 ### 🚀 About Me
 
-IT Professional with a passion for learning and growth. Currently works as a Senior Executive at Eduquity Career Technologies while pursuing, MCA with a specialization in AI/ML at Manipal University, Jaipur. I loves exploring new technologies, solving challenges with curiosity and flexibility, and helping others along the way. If you'd like to know more about his projects, feel free to reach out.
+IT Professional with a passion for learning and growth. Currently works as a Senior Executive at Eduquity Career Technologies while pursuing, MCA with a specialization in Cloud Computing at Manipal University, Jaipur. I loves exploring new technologies, solving challenges with curiosity and flexibility, and helping others along the way. If you'd like to know more about his projects, feel free to reach out.
 
 ---
 
