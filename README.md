@@ -1,29 +1,85 @@
-# 👋 Hi, I'm A (Atal). Sairam Kumar Patro
-
-**Senior Executive | MCA in Cloud Computing | Technology Enthusiast**
-
----
-
-### 🚀 About Me
-
-IT Professional with a passion for learning and growth. Currently works as a Senior Executive at Eduquity Career Technologies while pursuing, MCA with a specialization in Cloud Computing at Manipal University, Jaipur. I loves exploring new technologies, solving challenges with curiosity and flexibility, and helping others along the way. If you'd like to know more about his projects, feel free to reach out.
+# 👋 Hi, I'm A (Atal). Sairam Kumar Patro  
+**Senior Executive (IT & Networks) | SQL Server & .NET Developer | MCA in Cloud Computing**
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🚀 About Me  
+I’m an IT professional with **9+ years of experience** in database administration, server management, networking, and application support.  
+Currently working as a **Senior Executive & Network Administrator at Eduquity Career Technologies**, and pursuing **MCA (Cloud Computing)** at Manipal University, Jaipur.
 
-**Databases & Tools**  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+I enjoy solving technical challenges, building reliable systems, and learning modern tools that improve performance, security, and scalability.  
+I’m exploring **cloud technologies, backend development, and data engineering**.
 
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
+
+## 🛠️ Technical Skills & Toolkit  
+
+### **Databases & Data Engineering**
+- **Microsoft SQL Server (2005–2019)**, MySQL, Oracle  
+- Backup/Restore, Log Shipping, Replication, Always-On, Performance Tuning  
+- AWS EC2, AWS RDS (Basic)  
+- SQL Query Optimization & Automation  
+- Excel (Advanced), Google Sheets, Power BI, Looker Studio  
+
+### **Programming & Development**
+- **C#, ASP.NET, JavaScript, HTML, CSS**  
+- Salesforce (Admin, Data Migration, Reports/Dashboards)  
+- Apex (Basic)  
+
+### **Systems, Networks & Infrastructure**
+- VMware, Active Directory  
+- Windows Server (IIS, FTP—User Isolation), SonicWall Firewall  
+- Routing, Switching, VPN (FortiClient)  
+- Troubleshooting, Technical Support, Documentation  
 
 ---
 
-### 📬 Let's Connect!
+## 💼 Professional Experience  
 
-Always open to interesting collaborations and tech discussions!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isairamkumar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsairamkumar@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsairamkumar)
+### **Senior Executive & Network Administrator – Eduquity (2015–Present)**  
+- Managed IT operations for **7000+ client users** with 1,000+ devices.  
+- Designed and maintained **VMware infrastructure**, improving performance and reliability.  
+- Configured **IIS, FTP, Firewalls, VPN**, and networking for multi-city deployments.  
+- Installed & maintained SQL Server instances across **100+ project servers**.  
+- Led **database migrations**, DB security, automation, and high-availability setups.  
+- Trained a team of 40 with documentation & SOPs, reducing onboarding time by 30%.  
+- Coordinated with stakeholders & clients to convert business needs into technical plans.
 
 ---
+
+## 🎓 Internships  
+
+### **SQL Database Intern – Brainwave Matrix (2025)**  
+- Designed a complete **School Database Management System**  
+- Created ERDs, schemas, stored procedures, and optimized SQL queries.  
+- **Project on GitHub →** School Database Management System  
+
+### **Salesforce Intern – Whizzo Infotech (2021)**  
+- Worked on data migration, validation, custom objects, layouts, and dashboards.  
+- Improved Salesforce user adoption and reporting accuracy.
+
+---
+
+## 📂 Featured Projects  
+
+### 📘 **School Database Management System**  
+_A complete database system designed for managing students, academics, finance, and library data._  
+**Tech:** MySQL, Workbench  
+🔗 GitHub: https://github.com/itsairamkumar/School-Database-Management-System
+
+---
+
+## 🌱 Currently Learning  
+- Cloud Architecture (AWS)  
+- Backend Development (.NET Core)  
+- Data Engineering Concepts  
+- Improved automation using SQL + Python
+
+---
+
+## 📬 Connect With Me  
+Let’s discuss tech, databases, cloud, or collaborate on meaningful projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isairamkumar)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsairamkumar@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsairamkumar)
