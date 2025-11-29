@@ -39,37 +39,6 @@ I enjoy solving problems, optimizing systems, and learning technologies that imp
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-## 💼 Professional Experience  
-
-### **Senior Executive & Network Administrator – Eduquity (2015–Present)**
-- Managing IT operations for **7000+ users** and **1000+ devices**  
-- Installing & maintaining SQL Server (2005–2019) across **100+ project servers**  
-- Configuring IIS, FTP (User Isolation), VMware, SonicWall Firewall & VPN  
-- Executing database migrations & high availability setups  
-- Delivering SOPs, technical documentation, and support  
-
----
-
-## 📂 Featured Project  
-
-### **📘 School Database Management System**  
-A MySQL-based structured database for student, academic, library & finance management.  
-🔗 GitHub Repo: https://github.com/itsairamkumar/School-Database-Management-System
-
----
-
-## 🌱 Currently Learning  
-- AWS Cloud  
-- .NET Core API Development  
-- SQL + Python Automation  
-- Data Engineering Basics  
-
----
-
-## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isairamkumar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsairamkumar@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsairamkumar)
-
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsairamkumar&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=itsairamkumar&show_icons=true&theme=tokyonight)
