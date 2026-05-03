@@ -39,11 +39,3 @@ Power BI · Excel · Notion
 Cloud Architecture · DevOps · Kubernetes · Azure Fundamentals · Python · Java
 
 ---
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=itsairamkumar&show_icons=true&hide_border=true&hide_title=true&count_private=true)
-
----
-
-*"Solving problems, optimizing systems, learning every day."*
