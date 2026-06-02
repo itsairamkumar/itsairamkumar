@@ -1,39 +1,28 @@
 # Atal Sairam Kumar Patro
-**AWS DevOps Engineer · Cloud & Infrastructure · SQL Server DBA**
 
----
+AWS Cloud & DevOps Engineer | Software Engineer | SQL Server DBA
+
+Detail-oriented AWS Cloud & DevOps Engineer with hands-on experience in AWS, Linux, automation, and infrastructure management, focused on building reliable, secure, and scalable technology solutions.
 
 ## About
 
-Detail-oriented AWS DevOps Engineer with 10+ years of hands-on experience in cloud infrastructure, CI/CD pipelines, containerization, and automation. I build scalable, reliable systems using AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, and Bash, with deep roots in server administration, networking, and SQL Server DBA.
+With 10+ years of professional experience in IT infrastructure, networking, server administration, SQL Server database administration, and enterprise system operations, I bring a strong foundation in managing and supporting business-critical environments.
 
-MCA in Cloud Computing · Manipal University Jaipur · Eduquity Career Technologies
+My experience spans AWS cloud services, infrastructure operations, database administration, networking, firewall management, and server administration. I have worked extensively on troubleshooting complex technical issues, maintaining operational reliability, supporting production systems, and delivering secure and efficient technology solutions.
 
----
+## Technical Skills
 
-## Tech Stack
+| Domain                      | Skills                                                                                  |
+| --------------------------- | --------------------------------------------------------------------------------------- |
+| Cloud & DevOps              | AWS (EC2, S3, IAM, VPC, CloudWatch), Linux, Git, Docker, Kubernetes, Jenkins, Terraform |
+| Database Technologies       | SQL Server, MySQL, Oracle, AWS RDS                                                      |
+| Programming & Scripting     | Python, C#, ASP.NET, JavaScript, HTML5, CSS3, Bash                                      |
+| Infrastructure & Networking | Windows Server, IIS, VMware, SonicWall, FortiClient VPN, FTP, Network Administration    |
 
-**Cloud & DevOps**
-AWS · Azure · Docker · Kubernetes · Jenkins · Terraform · CI/CD
+## Areas of Interest
 
-**Scripting & Dev**
-Python · Bash · C# · ASP.NET · JavaScript · HTML5 · CSS3
+`Cloud Engineering` `DevOps` `Infrastructure Automation` `Site Reliability Engineering` `Database Administration`
 
-**Databases**
-SQL Server · MySQL · Oracle · AWS RDS
+## Connect
 
-**Infrastructure**
-Linux · Windows Server · VMware · IIS · SonicWall · FortiClient VPN
-
-**Tools**
-Power BI · Excel · Notion · Git
-
----
-
-## Building Toward
-
-Cloud Architecture · Kubernetes at scale · Azure Fundamentals · Advanced Python for DevOps
-
----
-
-📍 India · Open to remote & relocation globally · Open to work
+LinkedIn: https://www.linkedin.com/in/isairamkumar
