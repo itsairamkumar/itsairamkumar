@@ -14,8 +14,8 @@ My experience spans AWS cloud services, infrastructure operations, database admi
 | Domain                      | Skills                                                                                  |
 | --------------------------- | --------------------------------------------------------------------------------------- |
 | Cloud & DevOps              | AWS (EC2, S3, IAM, VPC, CloudWatch), Linux, Git, Docker, Kubernetes, Jenkins, Terraform |
-| Database Technologies       | SQL Server, MySQL, Oracle, AWS RDS                                                      |
-| Programming & Scripting     | Python, C#, ASP.NET, JavaScript, HTML5, CSS3, Bash                                      |
+| Database Technologies       | SQL Server, MySQL, AWS RDS                                                      |
+| Programming & Scripting     | Python, C#, ASP.NET, HTML5, CSS3, Bash                                      |
 | Infrastructure & Networking | Windows Server, IIS, VMware, SonicWall, FortiClient VPN, FTP, Network Administration    |
 
 ## Areas of Interest
