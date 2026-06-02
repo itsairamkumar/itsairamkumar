@@ -1,41 +1,39 @@
 # Atal Sairam Kumar Patro
-
-Senior Executive — IT & Networks | SQL Server | .NET | Cloud Computing
+**AWS DevOps Engineer · Cloud & Infrastructure · SQL Server DBA**
 
 ---
 
 ## About
 
-9+ years in database administration, server and network management, and software support. Currently at **Eduquity Career Technologies** while pursuing **MCA in Cloud Computing** at Manipal University Jaipur.
+Detail-oriented AWS DevOps Engineer with 10+ years of hands-on experience in cloud infrastructure, CI/CD pipelines, containerization, and automation. I build scalable, reliable systems using AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, and Bash, with deep roots in server administration, networking, and SQL Server DBA.
 
-Focused on building reliable systems, optimizing performance, and expanding into cloud infrastructure.
+MCA in Cloud Computing · Manipal University Jaipur · Eduquity Career Technologies
 
 ---
 
-## Skills
+## Tech Stack
+
+**Cloud & DevOps**
+AWS · Azure · Docker · Kubernetes · Jenkins · Terraform · CI/CD
+
+**Scripting & Dev**
+Python · Bash · C# · ASP.NET · JavaScript · HTML5 · CSS3
 
 **Databases**
 SQL Server · MySQL · Oracle · AWS RDS
 
-**Development**
-C# · ASP.NET · JavaScript · HTML5 · CSS3
-
-**Programming**
-Python · Java
-
-**Infrastructure & Networking**
-Windows Server · IIS · VMware · SonicWall · Firewall · FortiClient VPN · FTP
-
-**Cloud**
-AWS · Azure
+**Infrastructure**
+Linux · Windows Server · VMware · IIS · SonicWall · FortiClient VPN
 
 **Tools**
-Power BI · Excel · Notion
+Power BI · Excel · Notion · Git
 
 ---
 
-## Currently Learning
+## Building Toward
 
-Cloud Architecture · DevOps · Kubernetes · Azure Fundamentals · Python · Java
+Cloud Architecture · Kubernetes at scale · Azure Fundamentals · Advanced Python for DevOps
 
 ---
+
+📍 India · Open to remote & relocation globally · Open to work
