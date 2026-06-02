@@ -20,7 +20,7 @@ My experience spans AWS cloud services, infrastructure operations, database admi
 
 ## Areas of Interest
 
-`Cloud Engineering` `DevOps` `Infrastructure Automation` `Site Reliability Engineering` `Database Administration`
+`DevOps` `Cloud Engineering` `Infrastructure Automation` `Site Reliability Engineering` `Database Administration`
 
 ## Connect
 
