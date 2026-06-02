@@ -1,5 +1,4 @@
 # Atal Sairam Kumar Patro
-
 AWS Cloud & DevOps Engineer | Software Engineer | SQL Server DBA
 
 Detail-oriented AWS Cloud & DevOps Engineer with hands-on experience in AWS, Linux, automation, and infrastructure management, focused on building reliable, secure, and scalable technology solutions.
