@@ -27,5 +27,3 @@ LinkedIn: https://www.linkedin.com/in/isairamkumar
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsairamkumar&show_icons=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsairamkumar&layout=compact&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=itsairamkumar&theme=default)
