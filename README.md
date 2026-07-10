@@ -24,6 +24,3 @@ My experience spans AWS cloud services, infrastructure operations, database admi
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/isairamkumar
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsairamkumar&show_icons=true&theme=default&count_private=true)
