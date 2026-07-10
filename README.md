@@ -23,4 +23,14 @@ My experience spans AWS cloud services, infrastructure operations, database admi
 `DevOps` `Cloud Engineering` `Infrastructure Automation` `Site Reliability Engineering` `Database Administration`
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/isairamkumar
+<p align="left">
+<a href="https://www.linkedin.com/in/isairamkumar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
