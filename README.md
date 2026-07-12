@@ -20,7 +20,7 @@ My experience spans AWS cloud services, infrastructure operations, database admi
 
 ## Areas of Interest
 
-`DevOps` `Cloud Engineering` `Infrastructure Automation` `Site Reliability Engineering` `Database Administration`
+`DevOps` `Backend Development` `Cloud Engineering` `Infrastructure Automation` `Site Reliability Engineering` `Database Administration`
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/isairamkumar
